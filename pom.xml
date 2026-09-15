@@ -28,7 +28,7 @@
         <java.version>24</java.version>
 
         <!-- Main Application Class -->
-        <start-class>com.student.Studentmvc</start-class>
+        <start-class>com.students.Studentmvc</start-class>
     </properties>
 
     <!-- Dependencies -->
@@ -85,7 +85,7 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
 
                 <configuration>
-                    <mainClass>com.student.Studentmvc</mainClass>
+                    <mainClass>com.students.Studentmvc</mainClass>
                 </configuration>
 
             </plugin>
